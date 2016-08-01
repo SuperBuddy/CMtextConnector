@@ -1,5 +1,5 @@
 {
-    "name": "cjsdevelopment/cmtextconnector",
+    "name": "superbuddy/cmtextconnector",
     "description": "A connector for CM text (SMS) messages and Laravel.",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
 
     "autoload": {
       "psr-4": {
-        "CJSDevelopment\\": "src/"
+        "SuperBuddy\\": "src/"
       }
     }
 }
